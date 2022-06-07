@@ -1,0 +1,11 @@
+numpy
+tqdm
+Keras
+nibabel
+matplotlib
+opencv-python
+tensorflow
+matplotlib
+imageio
+requests
+
